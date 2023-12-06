@@ -1,0 +1,11 @@
+.first-child{
+    height: 10px;
+    position: relative;
+    left: 20;
+    background-color: red;
+    padding: 10px;
+}
+.other-child{
+    padding: 10px;
+    background-color: aliceblue;
+}

@@ -1,13 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import EventTable from './components/table/Event';
+import SignUp from './components/signup/Signup';
+import Login from './components/login/Login';
+import LearnState from './components/LearnState';
+import Dropdown from './components/Toggled';
+// import First from './components/First';
+// import Bitcoin from '../src/components/Bitcoin'; 
+// import Ideas from './components/Header'
+// import Footer from './components/Footer'
+// import Main from './components/Main'
+ 
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <Ideas/>
+    <Main/>
+    <Footer/> */
+    // <EventTable />
+    
+    <Dropdown/>
+    }
   </React.StrictMode>
 );
 

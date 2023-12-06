@@ -1,0 +1,167 @@
+
+#red{
+    margin-top: 30px;
+    background-color: rgb(21, 155, 250);
+    padding-top: 100px;
+    padding: 100px;
+    padding-bottom: 50px;
+}
+.ulock{
+    padding-right: 350px;
+    margin-top: 60px
+}
+#main{
+    background-image: url(https://images.freeimages.com/images/large-previews/3d0/graphic-designer-1-1482248.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding-bottom: 20px;
+}
+.you{margin-right: 400px;
+    margin-left: 20px;
+    padding-top: 20px;
+
+}
+#text{
+    text-align: justify;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: solid black;
+    padding-right: 100px;
+    padding-top: 20px;
+    margin-right: 100px;
+    padding-left: 50px;
+    margin-left: 50px;
+    background-size: 75%;
+    width: 30%;
+    margin-top: 100px;
+    padding-bottom: 20px;
+
+}
+#bot1{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#dis{
+    margin-left: 300px;
+
+}
+#ty{text-align: center;
+    margin-bottom: 200px;
+    border:solid back;
+    height: 200px;
+    width: 300px;
+    padding-left: 20px;
+    padding-right: 40px;
+    color: white;
+    background-color: gray;
+
+
+
+}
+#yt{text-align: center;
+    margin-top: 100px;
+    border:solid black;
+    margin-bottom: 50px;
+    height: 200px;
+    width: 200px;
+    color: white;
+    background-color: gray;
+}
+#f8{margin-top: 70px;
+    margin-left:20px;
+    width: 50%;
+    background-image: url('../images/Asset/Capture.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#text-1{
+    /* text-align: justify; */
+    background-color: aliceblue;
+}
+#forcast{
+    margin-left: 250px;
+    padding-right: 200px;
+}
+
+.oni{
+    margin-left: 200px;
+}
+#ri{margin-right: 50px;
+    margin-top: 20px;
+    width: 100%;
+    /* text-align: justify; */
+}
+#pt{
+    /* text-align: center; */
+    padding-left: 100px;
+    
+}
+#bt, #tr{
+    margin-left: 50px;
+}
+#card{
+    border: solid wheat;
+    margin-top: 30px;
+    width: 100%;
+    background-color: gray;
+    padding-top: 10px;
+}
+.tr{
+    color: orangered;
+    margin-left: 200px}
+    #section{
+        margin-top: 100px;
+        margin-left: 200px;
+        border-top: 100px;
+        padding-top: 100px;
+        height: 400px;
+    }
+    #sl{
+        height: 100px;
+    }
+    #flu{
+        background-color: gray;
+    }
+    #last{
+        margin-top: 20px;
+        margin-left: 100px;
+       
+        text-decoration-color: aliceblue;
+       
+    }
+    #copy{
+        color: white;
+        font-size: larger;
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+    #bnt{
+        margin-left: 250px;
+    }
+    .mess{
+        margin-left: 90%;
+    bottom: 1rem;
+    right: 10px;
+    position: fixed;
+
+        
+    }
+/* #jb{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(244, 241, 238);
+}
+
+#jb2{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(238, 237, 235);
+    padding-left: 5px
+
+}
+#test{
+    align-items: center;
+} */
