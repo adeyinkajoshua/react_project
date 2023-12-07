@@ -7,6 +7,8 @@ import SignUp from './components/signup/Signup';
 import Login from './components/login/Login';
 import LearnState from './components/LearnState';
 import Dropdown from './components/Toggled';
+import Dropdown2 from './components/CoolorList';
+import MultiStepForm from './components/classwork/Form';
 // import First from './components/First';
 // import Bitcoin from '../src/components/Bitcoin'; 
 // import Ideas from './components/Header'
@@ -23,7 +25,7 @@ root.render(
     <Footer/> */
     // <EventTable />
     
-    <Dropdown/>
+    <MultiStepForm/>
     }
   </React.StrictMode>
 );

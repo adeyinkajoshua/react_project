@@ -20,10 +20,13 @@ const Dropdown = () => {
             <li>Item 3</li>
             <li>Item 4</li>
             <li>Item 5</li>
-            <li>Item 6</li>
+            <li>Item 6</li> 
           </ul>
         </div>
       )}
+      <div style={{backgroundColor:""}}>
+
+      </div>
     </div>
     </div>
   );
